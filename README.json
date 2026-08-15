@@ -33,7 +33,7 @@
             "last_commit": "2026-08-07T17:00:27Z",
             "owner": "saidsurucu",
             "repo": "borsa-mcp",
-            "stars": 638
+            "stars": 639
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-06-18T16:50:13Z",
             "owner": "saidsurucu",
             "repo": "mevzuat-mcp",
-            "stars": 229
+            "stars": 230
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-05-20T15:25:37Z",
             "owner": "saidsurucu",
             "repo": "yoktez-mcp",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:40:26.193Z",
+    "last_updated": "2026-08-15T01:46:51.985Z",
     "original_repository": "agmmnn/turkish-nlp-resources",
     "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
