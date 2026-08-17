@@ -119,8 +119,8 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,349 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
-* [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 289 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,350 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 290 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 197 | 🐛 9 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
 * [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 139 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
