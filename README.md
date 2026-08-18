@@ -51,11 +51,11 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,096 | 🐛 1 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 639 | 🐛 1 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,098 | 🐛 2 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 640 | 🐛 2 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) ⭐ 230 | 🐛 2 | 🌐 Python | 📅 2026-06-18 : Search Turkish Legislation (laws, regulations).
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 125 | 🐛 0 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
-* [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
+* [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
@@ -123,7 +123,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 290 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 197 | 🐛 9 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
-* [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 139 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
+* [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 140 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
 * [Nuve](https://github.com/hrzafer/nuve) ⭐ 104 | 🐛 28 | 🌐 C# | 📅 2023-02-21 (C#) : Turkish NLP library for morphological analysis.
 * [SadedeGel](https://github.com/GlobalMaksimum/sadedegel) ⭐ 94 | 🐛 65 | 🌐 Python | 📅 2023-04-12 (Python) : Extraction-based news summarization.
 * [Zemberek-Server](https://github.com/cbilgili/zemberek-nlp-server) ⭐ 84 | 🐛 1 | 🌐 Java | 📅 2022-05-20 (Docker) : REST Docker server for Zemberek.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
