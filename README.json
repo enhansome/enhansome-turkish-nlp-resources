@@ -19,7 +19,7 @@
             "last_commit": "2026-08-06T12:33:18Z",
             "owner": "saidsurucu",
             "repo": "yargi-mcp",
-            "stars": 1098
+            "stars": 1099
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-07T17:00:27Z",
             "owner": "saidsurucu",
             "repo": "borsa-mcp",
-            "stars": 640
+            "stars": 641
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-06-18T16:50:13Z",
             "owner": "saidsurucu",
             "repo": "mevzuat-mcp",
-            "stars": 230
+            "stars": 233
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2022-05-20T20:52:50Z",
             "owner": "cbilgili",
             "repo": "zemberek-nlp-server",
-            "stars": 84
+            "stars": 83
           }
         },
         {
@@ -389,10 +389,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-11T10:46:16Z",
+            "last_commit": "2026-08-18T19:32:12Z",
             "owner": "kesimeg",
             "repo": "awesome-turkish-language-models",
-            "stars": 94
+            "stars": 95
           }
         },
         {
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:47:14.724Z",
+    "last_updated": "2026-08-19T01:49:50.523Z",
     "original_repository": "agmmnn/turkish-nlp-resources",
     "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
