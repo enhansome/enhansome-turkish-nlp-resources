@@ -119,7 +119,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,350 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,351 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 290 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 197 | 🐛 9 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -206,7 +206,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Awesome Lists
 
-* [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 113 | 🐛 3 | 📅 2025-01-25 : Open data sources in Turkey.
+* [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 114 | 🐛 3 | 📅 2025-01-25 : Open data sources in Turkey.
 * [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 95 | 🐛 3 | 📅 2026-08-18 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 0 | 📅 2020-09-12 : Alternative curated list.
 
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

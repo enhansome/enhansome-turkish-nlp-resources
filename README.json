@@ -160,7 +160,7 @@
             "last_commit": "2026-04-28T10:29:37Z",
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1350
+            "stars": 1351
           }
         },
         {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-01-25T23:59:18Z",
                 "owner": "kaymal",
                 "repo": "acik-veri",
-                "stars": 113
+                "stars": 114
               }
             },
             {
@@ -434,7 +434,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:00.469Z",
+    "last_updated": "2026-08-20T01:48:00.638Z",
     "original_repository": "agmmnn/turkish-nlp-resources",
     "original_repository_id": 484449980,
     "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
