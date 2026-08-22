@@ -51,7 +51,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,100 | 🐛 2 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
+* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,103 | 🐛 2 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 642 | 🐛 2 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) ⭐ 232 | 🐛 2 | 🌐 Python | 📅 2026-06-18 : Search Turkish Legislation (laws, regulations).
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 125 | 🐛 0 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
@@ -119,7 +119,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,351 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,352 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 290 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 197 | 🐛 9 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
