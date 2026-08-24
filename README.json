@@ -323,6 +323,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Boğaziçi University TABI - NLI-TR",
+              "description": "Natural Language Inference datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260437873,
+                "language": null,
+                "last_commit": "2024-01-25T17:51:54Z",
+                "owner": "boun-tabi",
+                "repo": "NLI-TR",
+                "stars": 65
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Instruction Tuning & Dialogue (LLM)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UD Ottoman Turkish",
+              "description": "Historical treebank.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711633846,
+                "language": null,
+                "last_commit": "2026-05-06T19:11:52Z",
+                "owner": "UniversalDependencies",
+                "repo": "UD_Ottoman_Turkish-BOUN",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Treebanks (Syntax & Morphology)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Amazon MASSIVE",
               "description": "& OPUS : Multilingual resources.",
               "children": [],
@@ -348,7 +392,7 @@
                 "last_commit": "2018-06-29T05:58:38Z",
                 "owner": "ahmetax",
                 "repo": "trstop",
-                "stars": 128
+                "stars": 127
               }
             },
             {
@@ -434,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:54:47.699Z",
+    "last_updated": "2026-08-24T14:35:30.264Z",
     "original_repository": "agmmnn/turkish-nlp-resources",
     "original_repository_id": 484449980,
     "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
