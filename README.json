@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-06T12:33:18Z",
                 "owner": "saidsurucu",
                 "repo": "yargi-mcp",
-                "stars": 1107
+                "stars": 1106
               }
             },
             {
@@ -478,9 +478,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:34:49.577Z",
-    "original_repository": "agmmnn/turkish-nlp-resources",
-    "original_repository_id": 484449980,
+    "last_updated": "2026-08-27T12:07:13.139Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 484449980,
+      "language": null,
+      "last_commit": "2026-02-07T19:28:52Z",
+      "owner": "agmmnn",
+      "repo": "turkish-nlp-resources",
+      "stars": 184
+    },
     "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
     "enhanced_repository_description": null,
