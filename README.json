@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-06T12:33:18Z",
                 "owner": "saidsurucu",
                 "repo": "yargi-mcp",
-                "stars": 1106
-              }
+                "stars": 1107
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-07T17:00:27Z",
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 642
-              }
+                "stars": 643
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "saidsurucu",
                 "repo": "mevzuat-mcp",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "saidsurucu",
                 "repo": "yokatlas-mcp",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             }
           ],
           "description": "Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.",
@@ -104,7 +109,8 @@
             "owner": "turkish-nlp-suite",
             "repo": "TrGLUE",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         }
       ],
       "title": "Evaluation & Benchmarks"
@@ -125,7 +131,8 @@
             "owner": "HIT-SCIR",
             "repo": "ELMoForManyLangs",
             "stars": 1460
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -140,7 +147,8 @@
             "owner": "loodos",
             "repo": "turkish-language-models",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         }
       ],
       "title": "Encoder Models"
@@ -160,8 +168,9 @@
             "last_commit": "2026-04-28T10:29:37Z",
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1352
-          }
+            "stars": 1353
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -176,7 +185,8 @@
             "owner": "vngrs-ai",
             "repo": "vnlp",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -191,7 +201,8 @@
             "owner": "otuncelli",
             "repo": "turkish-stemmer-python",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -206,7 +217,8 @@
             "owner": "coltekin",
             "repo": "TRmorph",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -221,7 +233,8 @@
             "owner": "loodos",
             "repo": "zemberek-python",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "harunzafer",
             "repo": "nuve",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -251,7 +265,8 @@
             "owner": "GlobalMaksimum",
             "repo": "sadedegel",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -266,7 +281,8 @@
             "owner": "cbilgili",
             "repo": "zemberek-nlp-server",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -281,7 +297,8 @@
             "owner": "eonurk",
             "repo": "sinkaf",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -296,7 +313,8 @@
             "owner": "snnclsr",
             "repo": "ner",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         },
         {
           "node_type": "item",
@@ -311,7 +329,8 @@
             "owner": "apdullahyayik",
             "repo": "TrTokenizer",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
         }
       ],
       "title": "Tools & Libraries"
@@ -334,7 +353,8 @@
                 "owner": "boun-tabi",
                 "repo": "NLI-TR",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             }
           ],
           "description": null,
@@ -356,7 +376,8 @@
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ottoman_Turkish-BOUN",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             }
           ],
           "description": null,
@@ -378,7 +399,8 @@
                 "owner": "alexa",
                 "repo": "massive",
                 "stars": 565
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -393,7 +415,8 @@
                 "owner": "ahmetax",
                 "repo": "trstop",
                 "stars": 127
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -408,7 +431,8 @@
                 "owner": "kevserbusrayildirim",
                 "repo": "FSMTSAD",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             }
           ],
           "description": null,
@@ -436,7 +460,8 @@
                 "owner": "kaymal",
                 "repo": "acik-veri",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -451,7 +476,8 @@
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             },
             {
               "node_type": "item",
@@ -466,7 +492,8 @@
                 "owner": "yusufusta",
                 "repo": "awesome-turkish-nlp",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T11:17:17.425Z"
             }
           ],
           "description": null,
@@ -478,7 +505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:07:13.139Z",
+    "last_updated": "2026-08-28T11:17:17.425Z",
     "original_repository_info": {
       "archived": false,
       "id": 484449980,
