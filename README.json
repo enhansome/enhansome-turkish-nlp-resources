@@ -63,7 +63,7 @@
                 "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "mevzuat-mcp",
-                "stars": 234,
+                "stars": 235,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -248,7 +248,7 @@
             "open_issues": 0,
             "owner": "vngrs-ai",
             "repo": "vnlp",
-            "stars": 290,
+            "stars": 291,
             "topics": [
               "deasciifier",
               "deep-learning",
@@ -710,7 +710,7 @@
                 "open_issues": 4,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:22:28.154Z",
+    "last_updated": "2026-09-03T04:16:30.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
