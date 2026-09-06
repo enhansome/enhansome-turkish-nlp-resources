@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "saidsurucu",
                 "repo": "yargi-mcp",
-                "stars": 1110,
+                "stars": 1111,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -42,7 +42,7 @@
                 "open_issues": 4,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 648,
+                "stars": 649,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -602,7 +602,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:18:22.988Z",
+    "last_updated": "2026-09-06T04:29:40.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

@@ -51,8 +51,8 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,110 | 🐛 4 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 648 | 🐛 4 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,111 | 🐛 4 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 4 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) ⭐ 234 | 🐛 2 | 🌐 Python | 📅 2026-06-18 : Search Turkish Legislation (laws, regulations).
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
@@ -176,7 +176,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 565 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 566 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 206 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
