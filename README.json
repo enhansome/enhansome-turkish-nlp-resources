@@ -17,11 +17,11 @@
                 "id": 987694011,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-06T12:33:18Z",
+                "last_commit": "2026-09-06T19:34:22Z",
                 "open_issues": 4,
                 "owner": "saidsurucu",
                 "repo": "yargi-mcp",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -38,8 +38,8 @@
                 "id": 999030377,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-07T17:00:27Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-06T08:08:51Z",
+                "open_issues": 3,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
                 "stars": 649,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:29:40.203Z",
+    "last_updated": "2026-09-07T04:28:47.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

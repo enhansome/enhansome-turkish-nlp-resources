@@ -51,8 +51,8 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,111 | 🐛 4 | 🌐 Python | 📅 2026-08-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 4 | 🌐 Python | 📅 2026-08-07 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,112 | 🐛 4 | 🌐 Python | 📅 2026-09-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 3 | 🌐 Python | 📅 2026-09-06 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) ⭐ 234 | 🐛 2 | 🌐 Python | 📅 2026-06-18 : Search Turkish Legislation (laws, regulations).
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
