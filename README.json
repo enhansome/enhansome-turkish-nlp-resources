@@ -7,27 +7,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Yargı MCP",
-              "description": "Search for Turkish Legal Databases (Yargıtay, Danıştay).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP Server For Turkish Legal Databases",
-                "homepage": null,
-                "id": 987694011,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-06T19:34:22Z",
-                "open_issues": 4,
-                "owner": "saidsurucu",
-                "repo": "yargi-mcp",
-                "stars": 1112,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:17:17.425Z"
-            },
-            {
-              "node_type": "item",
               "title": "Borsa MCP",
               "description": "Istanbul Stock Exchange (BIST) and investment fund data.",
               "children": [],
@@ -43,27 +22,6 @@
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
                 "stars": 649,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T11:17:17.425Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mevzuat MCP",
-              "description": "Search Turkish Legislation (laws, regulations).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP Server for Searching Turkish Legislation",
-                "homepage": null,
-                "id": 996850383,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-18T16:50:13Z",
-                "open_issues": 2,
-                "owner": "saidsurucu",
-                "repo": "mevzuat-mcp",
-                "stars": 234,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -317,7 +275,7 @@
             "open_issues": 11,
             "owner": "coltekin",
             "repo": "TRmorph",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T11:17:17.425Z"
@@ -510,7 +468,7 @@
             "open_issues": 0,
             "owner": "apdullahyayik",
             "repo": "TrTokenizer",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "regular-expression",
               "sentence-tokenizer",
@@ -602,7 +560,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -767,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T04:28:47.656Z",
+    "last_updated": "2026-09-08T04:27:11.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

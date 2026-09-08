@@ -51,11 +51,11 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1,112 | 🐛 4 | 🌐 Python | 📅 2026-09-06 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 3 | 🌐 Python | 📅 2026-09-06 : Istanbul Stock Exchange (BIST) and investment fund data.
-* [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) ⭐ 234 | 🐛 2 | 🌐 Python | 📅 2026-06-18 : Search Turkish Legislation (laws, regulations).
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
+* [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) : Search for Turkish Legal Databases (Yargıtay, Danıştay).
+* [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
 
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
@@ -122,14 +122,14 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,356 | 🐛 56 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
-* [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 197 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
+* [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
 * [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 140 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
 * [Nuve](https://github.com/hrzafer/nuve) ⭐ 104 | 🐛 28 | 🌐 C# | 📅 2023-02-21 (C#) : Turkish NLP library for morphological analysis.
 * [SadedeGel](https://github.com/GlobalMaksimum/sadedegel) ⭐ 94 | 🐛 65 | 🌐 Python | 📅 2023-04-12 (Python) : Extraction-based news summarization.
 * [sinKAF](https://github.com/eonurk/sinkaf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2024-03-12 (Python) : Profanity detection library.
 * [Zemberek-Server](https://github.com/cbilgili/zemberek-nlp-server) ⭐ 83 | 🐛 1 | 🌐 Java | 📅 2022-05-20 (Docker) : REST Docker server for Zemberek.
 * [snnclsr/NER](https://github.com/snnclsr/ner) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2020-05-26 (Python) : Named Entity Recognition system.
-* [TrTokenizer](https://github.com/apdullahyayik/TrTokenizer) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2023-10-31 (Python) : Sentence and word tokenizers.
+* [TrTokenizer](https://github.com/apdullahyayik/TrTokenizer) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-10-31 (Python) : Sentence and word tokenizers.
 * [spaCy Turkish models](https://huggingface.co/turkish-nlp-suite) : Pre-trained Turkish pipelines for spaCy.
 * [Starlang Tools](https://github.com/StarlangSoftware) (Python) : Comprehensive suite (Morphology, Spell Check, Dependency Parsing, Deasciifier, NER).
 * [ITU Turkish NLP](http://tools.nlp.itu.edu.tr/api_usage.jsp) (Web/API) : Tools from ITU Natural Language Processing Group.
@@ -176,7 +176,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 566 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 567 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 206 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
