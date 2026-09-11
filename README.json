@@ -17,7 +17,7 @@
                 "id": 999030377,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-06T08:08:51Z",
+                "last_commit": "2026-09-10T10:12:39Z",
                 "open_issues": 3,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
@@ -668,7 +668,7 @@
                 "open_issues": 4,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
-                "stars": 97,
+                "stars": 98,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T04:32:54.748Z",
+    "last_updated": "2026-09-11T04:30:53.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

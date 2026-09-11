@@ -51,7 +51,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 3 | 🌐 Python | 📅 2026-09-06 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 649 | 🐛 3 | 🌐 Python | 📅 2026-09-10 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) : Search for Turkish Legal Databases (Yargıtay, Danıştay).
@@ -207,7 +207,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 ### Awesome Lists
 
 * [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 115 | 🐛 5 | 📅 2025-01-25 : Open data sources in Turkey.
-* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 97 | 🐛 4 | 📅 2026-08-29 : Curated list of models.
+* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 98 | 🐛 4 | 📅 2026-08-29 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 : Alternative curated list.
 
 ### Educational Resources
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
