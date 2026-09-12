@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 649,
+                "stars": 650,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -39,7 +39,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T15:25:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
                 "stars": 127,
@@ -179,7 +179,7 @@
             "open_issues": 56,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1357,
+            "stars": 1358,
             "topics": [
               "language",
               "morphology",
@@ -668,7 +668,7 @@
                 "open_issues": 4,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T04:30:53.553Z",
+    "last_updated": "2026-09-12T04:27:14.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
