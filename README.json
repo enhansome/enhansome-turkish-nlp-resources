@@ -175,8 +175,8 @@
             "id": 10448161,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-28T10:29:37Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-15T17:30:41Z",
+            "open_issues": 58,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
             "stars": 1358,
@@ -560,7 +560,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 567,
+                "stars": 568,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T04:47:10.594Z",
+    "last_updated": "2026-09-16T04:43:21.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

@@ -119,7 +119,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,358 | 🐛 57 | 🌐 Java | 📅 2026-04-28 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,358 | 🐛 58 | 🌐 Java | 📅 2026-09-15 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -176,7 +176,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 567 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 568 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 206 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
