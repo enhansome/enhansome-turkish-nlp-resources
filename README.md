@@ -124,7 +124,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
 * [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 140 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
-* [Nuve](https://github.com/hrzafer/nuve) ⭐ 104 | 🐛 28 | 🌐 C# | 📅 2023-02-21 (C#) : Turkish NLP library for morphological analysis.
+* [Nuve](https://github.com/hrzafer/nuve) ⭐ 103 | 🐛 28 | 🌐 C# | 📅 2023-02-21 (C#) : Turkish NLP library for morphological analysis.
 * [SadedeGel](https://github.com/GlobalMaksimum/sadedegel) ⭐ 94 | 🐛 65 | 🌐 Python | 📅 2023-04-12 (Python) : Extraction-based news summarization.
 * [sinKAF](https://github.com/eonurk/sinkaf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2024-03-12 (Python) : Profanity detection library.
 * [Zemberek-Server](https://github.com/cbilgili/zemberek-nlp-server) ⭐ 83 | 🐛 1 | 🌐 Java | 📅 2022-05-20 (Docker) : REST Docker server for Zemberek.
@@ -176,7 +176,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 568 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 569 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 206 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
