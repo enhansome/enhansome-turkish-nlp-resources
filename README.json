@@ -147,7 +147,7 @@
             "open_issues": 1,
             "owner": "loodos",
             "repo": "turkish-language-models",
-            "stars": 78,
+            "stars": 77,
             "topics": [
               "language-models",
               "natural-language-processing",
@@ -179,7 +179,7 @@
             "open_issues": 58,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1358,
+            "stars": 1361,
             "topics": [
               "language",
               "morphology",
@@ -532,7 +532,7 @@
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ottoman_Turkish-BOUN",
-                "stars": 3,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:46:23.467Z",
+    "last_updated": "2026-09-18T04:35:35.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
