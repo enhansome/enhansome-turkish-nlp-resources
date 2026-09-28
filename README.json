@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 654,
+                "stars": 653,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
-                "stars": 131,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -175,7 +175,7 @@
             "id": 10448161,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T21:55:57Z",
+            "last_commit": "2026-09-27T12:18:28Z",
             "open_issues": 51,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "kaymal",
                 "repo": "acik-veri",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "acik-veri",
                   "acik-veri-portali",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:11:53.107Z",
+    "last_updated": "2026-09-28T05:15:28.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
