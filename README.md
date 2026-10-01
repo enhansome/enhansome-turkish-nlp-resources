@@ -207,7 +207,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 ### Awesome Lists
 
 * [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 117 | 🐛 5 | 📅 2025-01-25 : Open data sources in Turkey.
-* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 101 | 🐛 4 | 📅 2026-08-29 : Curated list of models.
+* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 101 | 🐛 5 | 📅 2026-08-29 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 : Alternative curated list.
 
 ### Educational Resources
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
