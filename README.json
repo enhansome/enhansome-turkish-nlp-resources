@@ -636,7 +636,7 @@
                 "open_issues": 5,
                 "owner": "kaymal",
                 "repo": "acik-veri",
-                "stars": 117,
+                "stars": 116,
                 "topics": [
                   "acik-veri",
                   "acik-veri-portali",
@@ -668,7 +668,7 @@
                 "open_issues": 5,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
-                "stars": 101,
+                "stars": 102,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:27:31.561Z",
+    "last_updated": "2026-10-03T05:12:15.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
@@ -737,7 +737,7 @@
       "open_issues": 1,
       "owner": "agmmnn",
       "repo": "turkish-nlp-resources",
-      "stars": 186,
+      "stars": 184,
       "topics": [
         "awesome-list",
         "dataset",
