@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T05:05:37Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
                 "stars": 653,
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T07:45:20.842Z",
+    "last_updated": "2026-10-04T05:43:48.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
