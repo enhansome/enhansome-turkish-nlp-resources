@@ -52,7 +52,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 654 | 🐛 5 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
-* [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-05-20 : Turkish National Thesis Center (YÖK Tez) search.
+* [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-10-06 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
@@ -122,7 +122,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,368 | 🐛 51 | 🌐 Java | 📅 2026-10-04 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
-* [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 198 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
+* [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 199 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
 * [Zemberek-Python](https://github.com/Loodos/zemberek-python) ⭐ 142 | 🐛 9 | 🌐 Python | 📅 2025-06-23 (Python) : Python wrapper/implementation of Zemberek.
 * [Nuve](https://github.com/hrzafer/nuve) ⭐ 103 | 🐛 28 | 🌐 C# | 📅 2023-02-21 (C#) : Turkish NLP library for morphological analysis.
 * [SadedeGel](https://github.com/GlobalMaksimum/sadedegel) ⭐ 94 | 🐛 65 | 🌐 Python | 📅 2023-04-12 (Python) : Extraction-based news summarization.

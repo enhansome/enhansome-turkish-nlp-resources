@@ -38,7 +38,7 @@
                 "id": 994297456,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T15:25:37Z",
+                "last_commit": "2026-10-06T09:54:30Z",
                 "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
@@ -275,7 +275,7 @@
             "open_issues": 11,
             "owner": "coltekin",
             "repo": "TRmorph",
-            "stars": 198,
+            "stars": 199,
             "topics": []
           },
           "first_seen": "2026-08-28T11:17:17.425Z"
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:12:32.725Z",
+    "last_updated": "2026-10-06T10:53:07.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
