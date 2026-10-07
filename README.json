@@ -18,7 +18,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T05:05:37Z",
-                "open_issues": 5,
+                "open_issues": 7,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
                 "stars": 654,
@@ -38,7 +38,7 @@
                 "id": 994297456,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T09:54:30Z",
+                "last_commit": "2026-10-06T11:20:42Z",
                 "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
@@ -179,7 +179,7 @@
             "open_issues": 51,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "language",
               "morphology",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:07.866Z",
+    "last_updated": "2026-10-07T05:48:57.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
