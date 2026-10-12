@@ -53,7 +53,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 657 | 🐛 7 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 130 | 🐛 2 | 🌐 Python | 📅 2026-10-06 : Turkish National Thesis Center (YÖK Tez) search.
-* [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
+* [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 72 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
 
@@ -80,7 +80,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) : Multilingual e-commerce embeddings.
 * [Floret Embeddings](https://huggingface.co/turkish-nlp-suite) : Turkish Floret Embeddings, large and medium sized.
 * [VNLP Word Embeddings](https://vnlp.readthedocs.io/en/latest/main_classes/word_embeddings.html) : Word2Vec Turkish word embeddings.
-* [TurkishGloVe](https://github.com/inzva/Turkish-GloVe) ⭐ 70 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-04-12 : Turkish GloVe word embeddings.
+* [TurkishGloVe](https://github.com/inzva/Turkish-GloVe) ⭐ 71 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-04-12 : Turkish GloVe word embeddings.
 
 <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
