@@ -560,7 +560,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -636,7 +636,7 @@
                 "open_issues": 7,
                 "owner": "kaymal",
                 "repo": "acik-veri",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "acik-veri",
                   "acik-veri-portali",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:42:12.294Z",
+    "last_updated": "2026-10-14T04:45:36.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
