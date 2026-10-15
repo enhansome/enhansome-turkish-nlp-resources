@@ -179,7 +179,7 @@
             "open_issues": 51,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1370,
+            "stars": 1369,
             "topics": [
               "language",
               "morphology",
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:45:36.248Z",
+    "last_updated": "2026-10-15T04:28:18.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
