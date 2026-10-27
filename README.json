@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 656,
+                "stars": 657,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -633,7 +633,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-01-25T23:59:18Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "kaymal",
                 "repo": "acik-veri",
                 "stars": 117,
@@ -725,7 +725,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:36:53.793Z",
+    "last_updated": "2026-10-27T04:54:53.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
