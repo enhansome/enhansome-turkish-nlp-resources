@@ -143,7 +143,7 @@
             "open_issues": 53,
             "owner": "HIT-SCIR",
             "repo": "ELMoForManyLangs",
-            "stars": 1460,
+            "stars": 1459,
             "topics": [
               "elmo",
               "multilingual",
@@ -581,7 +581,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 576,
+                "stars": 577,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -686,7 +686,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-08-29T13:04:13Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
                 "stars": 102,
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T05:53:30.785Z",
+    "last_updated": "2026-11-02T05:53:23.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

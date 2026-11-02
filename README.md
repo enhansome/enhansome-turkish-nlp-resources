@@ -105,7 +105,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Traditional Transformer models (BERT, RoBERTa, etc.) and Word Vectors.*
 
-* [ELMO For ManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,460 | 🐛 53 | 🌐 Python | 📅 2021-05-19 : Pre-trained ELMo Representations.
+* [ELMO For ManyLangs](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,459 | 🐛 53 | 🌐 Python | 📅 2021-05-19 : Pre-trained ELMo Representations.
 * [Loodos/Turkish Language Models](https://github.com/Loodos/turkish-language-models) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2021-01-09 : Transformer based Turkish language models.
 * [BERTurk](https://huggingface.co/dbmdz/bert-base-turkish-cased) : Turkish BERT/DistilBERT, ELECTRA and ConvBERT models.
 * [TurkishBERTweet](https://huggingface.co/VRLLab/TurkishBERTweet) : A BERTweet model fine-tuned on Turkish tweets.
@@ -176,7 +176,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 576 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 577 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 206 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -207,7 +207,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 ### Awesome Lists
 
 * [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 117 | 🐛 8 | 📅 2025-01-25 : Open data sources in Turkey.
-* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 102 | 🐛 5 | 📅 2026-08-29 : Curated list of models.
+* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 102 | 🐛 6 | 📅 2026-08-29 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 : Alternative curated list.
 
 ### Educational Resources
@@ -232,4 +232,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
