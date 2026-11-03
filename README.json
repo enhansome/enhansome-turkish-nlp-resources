@@ -42,7 +42,7 @@
                 "open_issues": 2,
                 "owner": "saidsurucu",
                 "repo": "yoktez-mcp",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -685,8 +685,8 @@
                 "id": 938357342,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-29T13:04:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-02T19:20:56Z",
+                "open_issues": 5,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
                 "stars": 102,
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T05:53:23.132Z",
+    "last_updated": "2026-11-03T06:38:13.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
@@ -754,7 +754,7 @@
       "id": 484449980,
       "language": null,
       "license": null,
-      "last_commit": "2026-02-07T19:28:52Z",
+      "last_commit": "2026-11-02T17:29:03Z",
       "open_issues": 1,
       "owner": "agmmnn",
       "repo": "turkish-nlp-resources",
@@ -770,7 +770,7 @@
         "turkish-nlp"
       ]
     },
-    "original_repository_sha": "c5f7f3ca70b06fd904ed89858def78d11e518774",
+    "original_repository_sha": "017996f040e1292c01db1d0feb2206acc264cce4",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
     "enhanced_repository_description": null,
     "title": "Awesome turkish nlp resources with stars"

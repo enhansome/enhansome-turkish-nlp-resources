@@ -46,13 +46,14 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 > *Models adapted for specific verticals (Legal, Medical, Finance).*
 
 * [Mecellem](https://huggingface.co/collections/newmindai/mecellem-models) : Specialized ModernBERT-based models for the Turkish legal domain. [arxiv](https://arxiv.org/abs/2601.16018)
+* [Hati Glint SQL](https://huggingface.co/runelab-ai/Hati-Glint-SQL-9B-v1) : Turkish/English text-to-SQL model by RuneLab, fine-tuned from Qwen3.5-9B. [model page](https://runelab.ai/models/hati-glint-sql)
 
 ### LLM Integrations (MCP Servers)
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 658 | 🐛 7 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
-* [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 133 | 🐛 2 | 🌐 Python | 📅 2026-10-27 : Turkish National Thesis Center (YÖK Tez) search.
+* [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 134 | 🐛 2 | 🌐 Python | 📅 2026-10-27 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 73 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 1 | 🐛 0 | 📅 2026-10-28 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
@@ -70,6 +71,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 > *Late-interaction models (ColBERT) are specifically designed for high-performance retrieval tasks.*
 
 * [TurkColBERT](https://huggingface.co/collections/newmindai/turkcolbert-turkish-late-interaction-models) : Benchmark and collection of token-level matching models for high-performance retrieval. [arxiv](https://arxiv.org/abs/2511.16528), [blog](https://huggingface.co/blog/newmindai/late-interaction-models)
+* [Vör-LateEmbed-TR](https://huggingface.co/runelab-ai/Vor-LateEmbed-TR-0.6B-v1) : ColBERT-style (late-interaction) Turkish retrieval model by RuneLab, fine-tuned from pplx-embed-v2-late-0.6b. [model page](https://runelab.ai/models/vor-lateembed-tr)
 
 ### Embedding Models
 
@@ -78,6 +80,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [TurkEmbed4Retrieval](https://huggingface.co/newmindai/TurkEmbed4Retrieval) : Specialized embedding model for Turkish retrieval tasks.
 * [Mursit-Large-TR-Retrieval](https://huggingface.co/newmindai/Mursit-Large-TR-Retrieval) : Late-interaction retrieval model for Turkish.
 * [TY-ecomm-embed-multilingual-base-v1.2.0](https://huggingface.co/Trendyol/TY-ecomm-embed-multilingual-base-v1.2.0) : Multilingual e-commerce embeddings.
+* [Kenning Turkish Legal](https://huggingface.co/runelab-ai/kenning-turkish-legal-v1) : Turkish legal-domain embedding model by RuneLab (\~271M, EmbeddingGemma 2 base) for contracts, case law and legislation. [model page](https://runelab.ai/models/kenning-turkish-legal)
 * [Floret Embeddings](https://huggingface.co/turkish-nlp-suite) : Turkish Floret Embeddings, large and medium sized.
 * [VNLP Word Embeddings](https://vnlp.readthedocs.io/en/latest/main_classes/word_embeddings.html) : Word2Vec Turkish word embeddings.
 * [TurkishGloVe](https://github.com/inzva/Turkish-GloVe) ⭐ 71 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-04-12 : Turkish GloVe word embeddings.
@@ -207,7 +210,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 ### Awesome Lists
 
 * [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 117 | 🐛 8 | 📅 2025-01-25 : Open data sources in Turkey.
-* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 102 | 🐛 6 | 📅 2026-08-29 : Curated list of models.
+* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 102 | 🐛 5 | 📅 2026-11-02 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 : Alternative curated list.
 
 ### Educational Resources
@@ -232,4 +235,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
