@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 660,
+                "stars": 659,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -200,7 +200,7 @@
             "open_issues": 52,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1373,
+            "stars": 1375,
             "topics": [
               "language",
               "morphology",
@@ -338,7 +338,7 @@
             "open_issues": 28,
             "owner": "harunzafer",
             "repo": "nuve",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "ngram-extraction",
               "nlp",
@@ -364,7 +364,7 @@
             "open_issues": 65,
             "owner": "GlobalMaksimum",
             "repo": "sadedegel",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "acikhack2",
               "ai",
@@ -686,7 +686,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-02T19:20:56Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "kesimeg",
                 "repo": "awesome-turkish-language-models",
                 "stars": 102,
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T06:34:15.287Z",
+    "last_updated": "2026-11-06T06:29:41.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
@@ -754,7 +754,7 @@
       "id": 484449980,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-02T17:29:03Z",
+      "last_commit": "2026-11-05T14:42:42Z",
       "open_issues": 1,
       "owner": "agmmnn",
       "repo": "turkish-nlp-resources",
@@ -770,7 +770,7 @@
         "turkish-nlp"
       ]
     },
-    "original_repository_sha": "017996f040e1292c01db1d0feb2206acc264cce4",
+    "original_repository_sha": "bc6b3b6d13cf96a11883abbd321d23aa541f5a37",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
     "enhanced_repository_description": null,
     "title": "Awesome turkish nlp resources with stars"
