@@ -196,11 +196,11 @@
             "id": 10448161,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T00:30:24Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-11T05:57:02Z",
+            "open_issues": 65,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1378,
+            "stars": 1377,
             "topics": [
               "language",
               "morphology",
@@ -549,7 +549,7 @@
                 "id": 711633846,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-06T19:11:52Z",
+                "last_commit": "2026-11-10T21:52:25Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Ottoman_Turkish-BOUN",
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:08:11.061Z",
+    "last_updated": "2026-11-11T06:00:10.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",

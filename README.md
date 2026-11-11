@@ -122,7 +122,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,378 | 🐛 53 | 🌐 Java | 📅 2026-11-10 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,377 | 🐛 65 | 🌐 Java | 📅 2026-11-11 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 202 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -172,7 +172,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Treebanks (Syntax & Morphology)
 
-* [UD Ottoman Turkish](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN) ⭐ 2 | 🐛 1 | 📅 2026-05-06 : Historical treebank.
+* [UD Ottoman Turkish](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN) ⭐ 2 | 🐛 1 | 📅 2026-11-10 : Historical treebank.
 * [Universal Dependencies (UD)](https://universaldependencies.org/#turkish-treebanks) : Standardized cross-linguistic treebanks.
 * [UD Turkish BOUN](https://universaldependencies.org/treebanks/tr_boun/index.html) : 9.7k sentences, created by TABILAB.
 * [UD Turkish Kenet](https://universaldependencies.org/treebanks/tr_kenet/index.html) : 18.7k sentences, based on TDK dictionary.
@@ -236,4 +236,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
