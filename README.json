@@ -21,7 +21,7 @@
                 "open_issues": 7,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 660,
+                "stars": 666,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -196,8 +196,8 @@
             "id": 10448161,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T17:49:36Z",
-            "open_issues": 41,
+            "last_commit": "2026-11-17T07:14:05Z",
+            "open_issues": 40,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
             "stars": 1379,
@@ -389,6 +389,38 @@
         },
         {
           "node_type": "item",
+          "title": "Zemberek-Server",
+          "description": "(Docker) : REST Docker server for Zemberek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zemberek Türkçe NLP Java Kütüphanesi üzerine REST Docker Sunucu",
+            "homepage": null,
+            "id": 130563760,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2022-05-20T20:52:50Z",
+            "open_issues": 1,
+            "owner": "cbilgili",
+            "repo": "zemberek-nlp-server",
+            "stars": 84,
+            "topics": [
+              "docker",
+              "javascript",
+              "nlp",
+              "part-of-speech-tagger",
+              "rest",
+              "sentence-tokenizer",
+              "spark",
+              "turkish",
+              "turkish-language",
+              "zemberek"
+            ]
+          },
+          "first_seen": "2026-08-28T11:17:17.425Z"
+        },
+        {
+          "node_type": "item",
           "title": "sinKAF",
           "description": "(Python) : Profanity detection library.",
           "children": [],
@@ -413,38 +445,6 @@
               "turkish",
               "turkish-language",
               "turkish-nlp"
-            ]
-          },
-          "first_seen": "2026-08-28T11:17:17.425Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Zemberek-Server",
-          "description": "(Docker) : REST Docker server for Zemberek.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Zemberek Türkçe NLP Java Kütüphanesi üzerine REST Docker Sunucu",
-            "homepage": null,
-            "id": 130563760,
-            "language": "Java",
-            "license": "GPL-3.0",
-            "last_commit": "2022-05-20T20:52:50Z",
-            "open_issues": 1,
-            "owner": "cbilgili",
-            "repo": "zemberek-nlp-server",
-            "stars": 83,
-            "topics": [
-              "docker",
-              "javascript",
-              "nlp",
-              "part-of-speech-tagger",
-              "rest",
-              "sentence-tokenizer",
-              "spark",
-              "turkish",
-              "turkish-language",
-              "zemberek"
             ]
           },
           "first_seen": "2026-08-28T11:17:17.425Z"
@@ -581,7 +581,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -746,7 +746,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T06:15:30.481Z",
+    "last_updated": "2026-11-17T07:46:47.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
