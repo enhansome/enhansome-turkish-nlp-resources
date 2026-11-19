@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-24T05:05:37Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 667,
+                "stars": 682,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -88,6 +88,48 @@
                 "topics": []
               },
               "first_seen": "2026-10-29T05:38:31.538Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Katip Kalkan MCP",
+              "description": "Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Katip: on-device KVKK masking for Turkish legal documents. Browser app, Claude plugin, Turkish NER models and the KVKK-Bench benchmark.",
+                "homepage": "https://fikrifirat.github.io/katip",
+                "id": 1453767951,
+                "language": "Python",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-18T23:57:56Z",
+                "open_issues": 6,
+                "owner": "fikrifirat",
+                "repo": "katip",
+                "stars": 2,
+                "topics": [
+                  "anonymization",
+                  "avukat",
+                  "claude",
+                  "claude-code-plugin",
+                  "data-masking",
+                  "gdpr",
+                  "kisisel-veri",
+                  "kvkk",
+                  "legal-ai",
+                  "legal-tech",
+                  "mcp",
+                  "ner",
+                  "onnx",
+                  "personal-data",
+                  "pii",
+                  "pii-redaction",
+                  "privacy",
+                  "turkish",
+                  "turkish-nlp",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-11-19T07:14:14.433Z"
             }
           ],
           "description": "Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.",
@@ -500,6 +542,48 @@
             ]
           },
           "first_seen": "2026-08-28T11:17:17.425Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Katip",
+          "description": "(Python/JS) : On-device PII detection and masking for Turkish legal documents (PDF, scans, Word, UYAP UDF), with small Turkish NER models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Katip: on-device KVKK masking for Turkish legal documents. Browser app, Claude plugin, Turkish NER models and the KVKK-Bench benchmark.",
+            "homepage": "https://fikrifirat.github.io/katip",
+            "id": 1453767951,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-18T23:57:56Z",
+            "open_issues": 6,
+            "owner": "fikrifirat",
+            "repo": "katip",
+            "stars": 2,
+            "topics": [
+              "anonymization",
+              "avukat",
+              "claude",
+              "claude-code-plugin",
+              "data-masking",
+              "gdpr",
+              "kisisel-veri",
+              "kvkk",
+              "legal-ai",
+              "legal-tech",
+              "mcp",
+              "ner",
+              "onnx",
+              "personal-data",
+              "pii",
+              "pii-redaction",
+              "privacy",
+              "turkish",
+              "turkish-nlp",
+              "webassembly"
+            ]
+          },
+          "first_seen": "2026-11-19T07:14:14.433Z"
         }
       ],
       "title": "Tools & Libraries"
@@ -746,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:14:14.603Z",
+    "last_updated": "2026-11-19T07:14:14.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
@@ -754,11 +838,11 @@
       "id": 484449980,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-05T14:42:42Z",
+      "last_commit": "2026-11-18T19:39:09Z",
       "open_issues": 1,
       "owner": "agmmnn",
       "repo": "turkish-nlp-resources",
-      "stars": 190,
+      "stars": 191,
       "topics": [
         "awesome-list",
         "dataset",
@@ -770,7 +854,7 @@
         "turkish-nlp"
       ]
     },
-    "original_repository_sha": "bc6b3b6d13cf96a11883abbd321d23aa541f5a37",
+    "original_repository_sha": "8156d1f448b5b131de52a365f1fcf41e3f248414",
     "enhanced_repository": "enhansome/enhansome-turkish-nlp-resources",
     "enhanced_repository_description": null,
     "title": "Awesome turkish nlp resources with stars"
