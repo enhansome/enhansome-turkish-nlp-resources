@@ -52,11 +52,11 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 689 | 🐛 8 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 694 | 🐛 8 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 136 | 🐛 2 | 🌐 Python | 📅 2026-10-27 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
+* [Katip Kalkan MCP](https://github.com/fikrifirat/katip/tree/main/connector) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-11-20 : Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 2 | 🐛 0 | 📅 2026-10-28 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
-* [Katip Kalkan MCP](https://github.com/fikrifirat/katip/tree/main/connector) ⭐ 2 | 🐛 5 | 🌐 Python | 📅 2026-11-19 : Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
 
 <div align="right">
@@ -135,7 +135,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [sinKAF](https://github.com/eonurk/sinkaf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2024-03-12 (Python) : Profanity detection library.
 * [snnclsr/NER](https://github.com/snnclsr/ner) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2020-05-26 (Python) : Named Entity Recognition system.
 * [TrTokenizer](https://github.com/apdullahyayik/TrTokenizer) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-10-31 (Python) : Sentence and word tokenizers.
-* [Katip](https://github.com/fikrifirat/katip) ⭐ 2 | 🐛 5 | 🌐 Python | 📅 2026-11-19 (Python/JS) : On-device PII detection and masking for Turkish legal documents (PDF, scans, Word, UYAP UDF), with small Turkish NER models.
+* [Katip](https://github.com/fikrifirat/katip) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-11-20 (Python/JS) : On-device PII detection and masking for Turkish legal documents (PDF, scans, Word, UYAP UDF), with small Turkish NER models.
 * [spaCy Turkish models](https://huggingface.co/turkish-nlp-suite) : Pre-trained Turkish pipelines for spaCy.
 * [Starlang Tools](https://github.com/StarlangSoftware) (Python) : Comprehensive suite (Morphology, Spell Check, Dependency Parsing, Deasciifier, NER).
 * [ITU Turkish NLP](http://tools.nlp.itu.edu.tr/api_usage.jsp) (Web/API) : Tools from ITU Natural Language Processing Group.
@@ -239,4 +239,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

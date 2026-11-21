@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 689,
+                "stars": 694,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -70,27 +70,6 @@
             },
             {
               "node_type": "item",
-              "title": "Yargı MCP",
-              "description": "Search for Turkish Legal Databases (Yargıtay, Danıştay).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MCP Server For Turkish Legal Databases",
-                "homepage": null,
-                "id": 1436724233,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-10-28T07:03:38Z",
-                "open_issues": 0,
-                "owner": "saidsurucu",
-                "repo": "yargi-mcp",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-10-29T05:38:31.538Z"
-            },
-            {
-              "node_type": "item",
               "title": "Katip Kalkan MCP",
               "description": "Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.",
               "children": [],
@@ -101,11 +80,11 @@
                 "id": 1453767951,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-19T14:32:59Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-20T23:48:06Z",
+                "open_issues": 7,
                 "owner": "fikrifirat",
                 "repo": "katip",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "anonymization",
                   "avukat",
@@ -130,6 +109,27 @@
                 ]
               },
               "first_seen": "2026-11-19T07:14:14.433Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Yargı MCP",
+              "description": "Search for Turkish Legal Databases (Yargıtay, Danıştay).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MCP Server For Turkish Legal Databases",
+                "homepage": null,
+                "id": 1436724233,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-10-28T07:03:38Z",
+                "open_issues": 0,
+                "owner": "saidsurucu",
+                "repo": "yargi-mcp",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-29T05:38:31.538Z"
             }
           ],
           "description": "Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.",
@@ -555,11 +555,11 @@
             "id": 1453767951,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T14:32:59Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-20T23:48:06Z",
+            "open_issues": 7,
             "owner": "fikrifirat",
             "repo": "katip",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "anonymization",
               "avukat",
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:02:48.976Z",
+    "last_updated": "2026-11-21T06:56:46.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
