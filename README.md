@@ -55,7 +55,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 702 | 🐛 8 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2026-10-27 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
-* [Katip Kalkan MCP](https://github.com/fikrifirat/katip/tree/main/connector) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-11-24 : Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.
+* [Katip Kalkan MCP](https://github.com/fikrifirat/katip/tree/main/connector) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-11-25 : Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.
 * [Yargı MCP](https://github.com/saidsurucu/yargi-mcp) ⭐ 2 | 🐛 0 | 📅 2026-10-28 : Search for Turkish Legal Databases (Yargıtay, Danıştay).
 * [Mevzuat MCP](https://github.com/saidsurucu/mevzuat-mcp) : Search Turkish Legislation (laws, regulations).
 
@@ -124,7 +124,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,379 | 🐛 40 | 🌐 Java | 📅 2026-11-25 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,379 | 🐛 44 | 🌐 Java | 📅 2026-11-26 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 203 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -135,7 +135,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 * [sinKAF](https://github.com/eonurk/sinkaf) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2024-03-12 (Python) : Profanity detection library.
 * [snnclsr/NER](https://github.com/snnclsr/ner) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2020-05-26 (Python) : Named Entity Recognition system.
 * [TrTokenizer](https://github.com/apdullahyayik/TrTokenizer) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2023-10-31 (Python) : Sentence and word tokenizers.
-* [Katip](https://github.com/fikrifirat/katip) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-11-24 (Python/JS) : On-device PII detection and masking for Turkish legal documents (PDF, scans, Word, UYAP UDF), with small Turkish NER models.
+* [Katip](https://github.com/fikrifirat/katip) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-11-25 (Python/JS) : On-device PII detection and masking for Turkish legal documents (PDF, scans, Word, UYAP UDF), with small Turkish NER models.
 * [spaCy Turkish models](https://huggingface.co/turkish-nlp-suite) : Pre-trained Turkish pipelines for spaCy.
 * [Starlang Tools](https://github.com/StarlangSoftware) (Python) : Comprehensive suite (Morphology, Spell Check, Dependency Parsing, Deasciifier, NER).
 * [ITU Turkish NLP](http://tools.nlp.itu.edu.tr/api_usage.jsp) (Web/API) : Tools from ITU Natural Language Processing Group.
@@ -175,7 +175,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Treebanks (Syntax & Morphology)
 
-* [UD Ottoman Turkish](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN) ⭐ 2 | 🐛 1 | 📅 2026-11-10 : Historical treebank.
+* [UD Ottoman Turkish](https://github.com/UniversalDependencies/UD_Ottoman_Turkish-BOUN) ⭐ 3 | 🐛 1 | 📅 2026-11-10 : Historical treebank.
 * [Universal Dependencies (UD)](https://universaldependencies.org/#turkish-treebanks) : Standardized cross-linguistic treebanks.
 * [UD Turkish BOUN](https://universaldependencies.org/treebanks/tr_boun/index.html) : 9.7k sentences, created by TABILAB.
 * [UD Turkish Kenet](https://universaldependencies.org/treebanks/tr_kenet/index.html) : 18.7k sentences, based on TDK dictionary.
@@ -239,4 +239,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
