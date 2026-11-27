@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "saidsurucu",
                 "repo": "borsa-mcp",
-                "stars": 702,
+                "stars": 704,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:17:17.425Z"
@@ -238,11 +238,11 @@
             "id": 10448161,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T07:26:19Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-26T12:02:47Z",
+            "open_issues": 39,
             "owner": "ahmetaa",
             "repo": "zemberek-nlp",
-            "stars": 1379,
+            "stars": 1382,
             "topics": [
               "language",
               "morphology",
@@ -272,22 +272,22 @@
             "stars": 291,
             "topics": [
               "deasciifier",
-              "deep-learning",
               "dependency-parsing",
               "fasttext",
               "morphological-analysis",
               "morphological-disambiguation",
+              "morphology",
               "named-entity-recognition",
               "nlp",
               "normalization",
-              "number-to-words",
               "part-of-speech-tagging",
               "sentence-splitting",
-              "sentence-tokenizer",
               "sentiment-analysis",
               "spelling-correction",
               "stemming",
               "stopword-removal",
+              "turkish",
+              "turkish-language",
               "turkish-nlp",
               "word-embeddings",
               "word2vec"
@@ -830,7 +830,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:05:22.891Z",
+    "last_updated": "2026-11-27T08:14:28.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔡 List of Tools, Libraries, Models, Datasets and other resources for Turkish Natural Language Processing.",
