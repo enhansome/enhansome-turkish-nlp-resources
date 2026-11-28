@@ -52,7 +52,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Model Context Protocol (MCP) servers enabling AI agents to interact with Turkish data sources.*
 
-* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 704 | 🐛 8 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
+* [Borsa MCP](https://github.com/saidsurucu/borsa-mcp) ⭐ 705 | 🐛 8 | 🌐 Python | 📅 2026-09-24 : Istanbul Stock Exchange (BIST) and investment fund data.
 * [YÖK Tez MCP](https://github.com/saidsurucu/yoktez-mcp) ⭐ 137 | 🐛 2 | 🌐 Python | 📅 2026-10-27 : Turkish National Thesis Center (YÖK Tez) search.
 * [YÖK Atlas MCP](https://github.com/saidsurucu/yokatlas-mcp) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2026-07-23 : YÖK Atlas higher education and ranking data.
 * [Katip Kalkan MCP](https://github.com/fikrifirat/katip/tree/main/connector) ⭐ 3 | 🐛 5 | 🌐 Python | 📅 2026-11-25 : Masks personal data (KVKK) in Turkish legal documents on the user's computer before Claude reads them.
@@ -124,7 +124,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 > *Core libraries for morphological analysis, tokenization, and processing.*
 
-* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,382 | 🐛 39 | 🌐 Java | 📅 2026-11-26 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
+* [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) ⭐ 1,383 | 🐛 40 | 🌐 Java | 📅 2026-11-27 (Java) : The veteran NLP library for Turkish (Morphology, Spell Check, etc.).
 * [VNLP](https://github.com/vngrs-ai/vnlp) ⭐ 291 | 🐛 0 | 🌐 Python | 📅 2025-09-11 (Python) : State-of-the-art, lightweight NLP tools for Turkish.
 * [Turkish Stemmer](https://github.com/otuncelli/turkish-stemmer-python/) ⚠️ Archived (Python) : Stemming algorithm.
 * [TRmorph](https://github.com/coltekin/TRmorph) ⭐ 203 | 🐛 11 | 🌐 Python | 📅 2023-09-23 (FST) : Finite-state morphological analyzer.
@@ -183,7 +183,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 
 ### Sentiment, General NLP & Others
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 579 | 🐛 4 | 🌐 Python | 📅 2022-11-28 & [OPUS](https://opus.nlpl.eu/) : Multilingual resources.
 * **Miscellaneous**: [Song Lyrics](https://www.kaggle.com/datasets/emreokcular/turkish-song-lyrics), [Poems](https://www.kaggle.com/datasets/emreokcular/turkish-poems), [Idioms](https://www.kaggle.com/datasets/emreokcular/turkish-idioms-and-proverbs), [Stop Words](https://github.com/ahmetax/trstop) ⭐ 127 | 🐛 1 | 🌐 Python | 📅 2018-06-29, [Bad Word Blacklist](https://github.com/ooguz/turkce-kufur-karaliste) ⭐ 207 | 🐛 13 | 📅 2021-08-01, [Tatoeba: Multilingual Sentences](https://tatoeba.org/tr/downloads)
 * [FSMTSAD](https://github.com/kevserbusrayildirim/FSMTSAD) ⭐ 0 | 🐛 1 | 📅 2025-02-17 : Balanced sentiment dataset (Hotel, Movie, Product).
 * [SentiTurca](https://huggingface.co/datasets/turkish-nlp-suite/SentiTurca) : Sentiment analysis benchmark.
@@ -214,7 +214,7 @@ Turkish NLP (Türkçe Doğal Dil İşleme) Tools, Libraries, Models, Datasets, a
 ### Awesome Lists
 
 * [Açık Veri Kaynakları](https://github.com/kaymal/acik-veri) ⭐ 117 | 🐛 8 | 📅 2025-01-25 : Open data sources in Turkey.
-* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 103 | 🐛 3 | 📅 2026-11-15 : Curated list of models.
+* [Awesome Turkish Language Models](https://github.com/kesimeg/awesome-turkish-language-models) ⭐ 103 | 🐛 6 | 📅 2026-11-15 : Curated list of models.
 * [Awesome Turkish NLP](https://github.com/yusufusta/awesome-turkish-nlp) ⭐ 48 | 🐛 1 | 📅 2020-09-12 : Alternative curated list.
 
 ### Educational Resources
@@ -239,4 +239,4 @@ Your contributions are welcome! If you want to contribute to this list, send a *
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
